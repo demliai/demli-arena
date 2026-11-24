@@ -1,0 +1,29 @@
+{
+  "test": "",
+  "tarih": "",
+  "video": null,
+  "prompt_dosyasi": "prompt.md",
+  "kurallar": {
+    "tek_atis": true,
+    "sure_siniri_dk": null,
+    "arac_izni": ""
+  },
+  "modeller": [
+    {
+      "ad": "",
+      "surum": "",
+      "arayuz": "",
+      "ayarlar": {},
+      "cikti": "sonuclar/<model>.html",
+      "sure_sn": null,
+      "token": null,
+      "maliyet": null,
+      "puan": null,
+      "not": ""
+    }
+  ],
+  "hukum": {
+    "kazanan": "",
+    "gerekce": ""
+  }
+}
